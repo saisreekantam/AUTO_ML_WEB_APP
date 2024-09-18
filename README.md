@@ -20,7 +20,7 @@ This project is an **AutoML web application** built using **Streamlit**. It allo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/automl-web-app.git
+   git clone https://github.com/saisreekantam/AUTO_ML_WEB_APP.git
    cd automl-web-app
 2. pip install -r requirements.txt
 3. streamlit run app.py
